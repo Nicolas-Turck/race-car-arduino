@@ -1,5 +1,6 @@
 ## Projet de la semaine  voiture autonome anti-collision.
 
+![alt text](https://github.com/Nicolas-Turck/race-car-arduino/blob/master/ar.png)
 
 # Cette semaine j’ai découvert la conception le montage et la programmation  d’une voiture autonome 
 
